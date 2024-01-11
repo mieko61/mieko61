@@ -2,6 +2,8 @@
 <h3 align="center">A creative and detail-oriented software engineer based in NYC 🍎</h3>
 
 - 🔭 I’m currently working on **my website**
+  
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **miekotominaga@gmail.com**
 
