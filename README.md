@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mieko</h1>
 <h3 align="center">A creative and detail-oriented software engineer based in NYC 🍎</h3>
 
-- 🔭 I’m currently working on **AAIFF's website**
+- 🔭 I’m currently working on [**AAIFF's website**](https://www.aaiff.org/)
+
+- 🌱 I’m currently learning **Typescript**
   
 - 🌱 I’m currently learning **Typescript**
 
