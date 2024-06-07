@@ -3,10 +3,8 @@
 
 - 🔭 I’m currently working on <a href="http://www.aaiff.org" target="_blank">**AAIFF's website**</a>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Gatsby**
   
-- 🌱 I’m currently learning **Typescript**
-
 - 📫 How to reach me **miekotominaga@gmail.com**
 
 - ⚡ Fun fact **I worked as a pastry chef for 4 years**
